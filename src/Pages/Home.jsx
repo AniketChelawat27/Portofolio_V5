@@ -78,11 +78,11 @@ const TYPING_SPEED = 120;
 const ERASING_SPEED = 20;
 const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const TECH_STACK = ["React", "Javascript", "Redux", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr_/?hl=id" }
+  { icon: Github, link: "https://github.com/aniketchelawat27" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in//aniket-chelawat/" },
+  { icon: Instagram, link: "https://www.instagram.com/aniket_.chelawat?igsh=MXJuZDFxbmF4ZHlzMQ==" }
 ];
 
 const Home = () => {
